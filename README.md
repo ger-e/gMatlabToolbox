@@ -10,3 +10,5 @@ Post-Oct 2014 scripts have now been added, with permission from my previous empl
 * `RawImgFileHandling`: scripts for processing images of no format (i.e. just a raw stream of bytes)
 
 Some routines leveraged interoperability between Matlab and ImageJ using [MIJI](https://imagej.net/Miji); others leveraged interoperability between Linux commandline tools and Windows via calling Cygwin from Matlab.
+
+Most if not all scripts written post Oct 2014 are currently omitted, as they may require permission from my current employer in order to share publicly.
